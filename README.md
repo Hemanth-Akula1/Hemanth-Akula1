@@ -22,7 +22,7 @@
 - 👀 I’m interested in `Web Dev`,` Data Analysis` and `Data Science`
 - 🌱 I’m currently learning HTML, css, javascript, Typescript, C++, Data Analysis and python.
 - 👯 I’m looking to collaborate on Github
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-kalyan-kumar-akula-376117241/)&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;[![Email Badge](https://img.shields.io/badge/-Email-Blue?style=flat&logo=Email&logoColor=blue)](hemanth.dimpu01@gmail.com)
+- 📫 How to reach me: hemanth.dimpu01@gmail.com
 
 ---
 
